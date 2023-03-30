@@ -1,0 +1,22 @@
+{
+    "name": "Grabli.Extension.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a34d521b0887da3499d31d8dcea48fc7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
